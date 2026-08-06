@@ -1,7 +1,7 @@
 {
   "_wiswa": {
     "commandLine": "wiswa -d",
-    "lastRun": "2026-08-06T18:33:44Z",
+    "lastRun": "2026-08-06T18:42:04Z",
     "version": "ee89345-dirty"
   },
   "contributors": ["Andrew Udvare <audvare@gmail.com>"],
@@ -51,7 +51,7 @@
   },
   "files": ["LICENSE.txt", "README.md"],
   "homepage": "https://tatsh.github.io/vim-reduce-atoms/",
-  "keywords": ["gentoo", "package.use", "portage", "qatom", "vim", "vim-plugin"],
+  "keywords": ["gentoo", "portage", "vim", "vim plugin"],
   "license": "MIT",
   "markdownlint-cli2": {
     "config": {
