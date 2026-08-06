@@ -9,9 +9,17 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [unreleased]
 
-## [0.0.1] - 2026-00-00
+## [0.0.1] - 2026-08-06
 
-First version.
+### Added
 
-[unreleased]: https://github.com/Tatsh/vim-reduce-atoms/compare/v0.0.0...HEAD
-[0.0.1]: https://github.com/Tatsh/vim-reduce-atoms/releases/tag/v0.0.0
+- First version.
+- `:ReduceAtoms` command, which reduces every Portage atom in the current buffer to a bare
+  `category/package` and leaves the rest of each line, including USE flags, byte-for-byte
+  identical.
+- `:ReduceAtoms!` variant, which keeps the `:<slot>` restriction on each atom.
+- Range support, so `:.ReduceAtoms`, `:5,10ReduceAtoms`, and `:'<,'>ReduceAtoms` all work. Without
+  an explicit range, the whole buffer is processed.
+
+[unreleased]: https://github.com/Tatsh/vim-reduce-atoms/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/Tatsh/vim-reduce-atoms/releases/tag/v0.0.1

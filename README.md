@@ -4,7 +4,7 @@
 
 [![GitHub tag (with filter)](https://img.shields.io/github/v/tag/Tatsh/vim-reduce-atoms)](https://github.com/Tatsh/vim-reduce-atoms/tags)
 [![License](https://img.shields.io/github/license/Tatsh/vim-reduce-atoms)](https://github.com/Tatsh/vim-reduce-atoms/blob/master/LICENSE.txt)
-[![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/Tatsh/vim-reduce-atoms/v0.0.0/master)](https://github.com/Tatsh/vim-reduce-atoms/compare/v0.0.0...master)
+[![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/Tatsh/vim-reduce-atoms/v0.0.1/master)](https://github.com/Tatsh/vim-reduce-atoms/compare/v0.0.1...master)
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-blue?logo=dependabot)](https://github.com/dependabot)
 [![Stargazers](https://img.shields.io/github/stars/Tatsh/vim-reduce-atoms?logo=github&style=flat)](https://github.com/Tatsh/vim-reduce-atoms/stargazers)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Tatsh/vim-reduce-atoms/master.svg)](https://results.pre-commit.ci/latest/github/Tatsh/vim-reduce-atoms/master)
