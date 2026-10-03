@@ -1,6 +1,4 @@
-Ångström
 bsky
-cooldown
 coveragerc
 cpoptions
 dashcam
@@ -27,6 +25,8 @@ matchlist
 metacharacters
 mktemp
 mypy
+noone
+numpydoc
 oneline
 preapproved
 pyinstaller
@@ -54,6 +54,6 @@ venv
 winget
 wiswa
 wiswa's
-worktree
 yarnrc
 zizmor
+Ångström
