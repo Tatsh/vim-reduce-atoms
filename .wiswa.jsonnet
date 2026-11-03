@@ -15,13 +15,18 @@
   ],
   project_type: 'other',
   github+: {
+    codeql+: {
+      languages: ['actions'],
+      runs_on: 'ubuntu-latest',
+      workflow_file: 'codeql.yml',
+    },
     funding+: {
       ko_fi: 'tatsh2',
       liberapay: 'tatsh2',
       patreon: 'tatsh2',
     },
   },
-  want_codeql: false,
+  want_codeql: true,
   want_docs: false,
   want_tests: false,
   prettierignore+: [
